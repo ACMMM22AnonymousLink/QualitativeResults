@@ -1,6 +1,6 @@
 # QualitativeResults
 
-![quali][RebuttalQualiDistance.pdf]
+![quali](RebuttalQualiDistance.pdf "Qualitative Results")
 The qualitative comparsion between UPT, Ours method without the proposed Far-Near Distance Attention and Our method (Ours). 
 From (a) to (i), the human-object center distance increase monotonically.
 It can be observed that when the human-object are close to each other (a ~ e), our method achieves similar or slightly lower scores for the indicated interations.
